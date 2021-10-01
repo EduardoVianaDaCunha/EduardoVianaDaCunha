@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EduardoVianaDaCunha
+- 👀 I’m interested in a new oportunity
+- 🌱 I’m currently learning Web development and programming and soon Ethical Hacking
+- 📫 To get in contact, send an E-mail to duviana2000@gmail.com
